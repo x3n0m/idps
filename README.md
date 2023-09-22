@@ -1,2 +1,2 @@
 # idps
-An High performance IDPS built using java
+An High performance Network IDPS built using java
